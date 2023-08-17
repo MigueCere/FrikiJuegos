@@ -1,9 +1,10 @@
-# InteliJuegos.md
+# FrikiJuegos.md
 ![](https://i.pinimg.com/750x/e7/1c/07/e71c077bb20bbc05089d31e353455b2b.jpg)
 
 ![](https://img.shields.io/badge/avance-2%25-green)
 [![](https://ibb.co/27Mfz6z)](https://ibb.co/27Mfz6z)
-##Nuestra historia:
+
+## Nuestra historia:
 Somos una pareja que nos apasionan los juegos que representan un reto. Queremos ofrecer al mundo una alternativa de entretenimiento y desconección digital que nos ayude a agilizar la mente con juegos poco convencionales hoy en día.
 
 ## ¿Qué artículos encontrarás?
