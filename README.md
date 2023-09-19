@@ -1,11 +1,11 @@
-# FrikiJuegos.md
-![](https://i.pinimg.com/750x/e7/1c/07/e71c077bb20bbc05089d31e353455b2b.jpg)
+# FrikiMundo.md
+![](https://i.postimg.cc/4NPZDfvH/Logo-mundo.png)
 
 ![](https://img.shields.io/badge/avance-2%25-green)
 [![](https://ibb.co/27Mfz6z)](https://ibb.co/27Mfz6z)
 
 ## Nuestra historia:
-Somos una pareja que nos apasionan los juegos que representan un reto. Queremos ofrecer al mundo una alternativa de entretenimiento y desconección digital que nos ayude a agilizar la mente con juegos poco convencionales hoy en día.
+Somos una pareja que nos apasionan los juegos que representan un reto, los ánimes, las películas y la variedad de contenido. Queremos ofrecer al mundo una alternativa de entretenimiento que ayude a otros a alcanzar cierto tipo de contenido que a veces parece muy disperso 
 
 ## ¿Qué artículos encontrarás?
 - Puzzles.
@@ -21,6 +21,14 @@ Somos una pareja que nos apasionan los juegos que representan un reto. Queremos 
 ## ¿A quienes va dirigido?
 
 A todo aquel público que guste de jugar, juegos de desafío o busque artículos funcionales  de temáticas populares. Desde 3 hasta que ya no puedas alzar una pieza.
+
+## Link de Figma para observar el boceto: 
+[FrikiMundo-Boceto ](https://www.figma.com/file/4I4K2x8k9i5LiFmEoA7mNZ/Untitled?type=design&node-id=9-2&mode=design&t=IwQR8YqtQYDuYGBT-0 "Figma-movil")
+
+## Descarga PDF del boceto:
+
+[FrikiMundo PDF](https://drive.google.com/drive/folders/1dGm1PXX9vrOQlW7DNgu8xD0uRFpt02fW?usp=sharing "FrikiMundo PDF")
+
 
 ## Tipos de fuente 
 
@@ -40,14 +48,15 @@ A todo aquel público que guste de jugar, juegos de desafío o busque artículos
     font-family: 'Architects Daughter', cursive;
 
 ## Paleta de colores a usar:
-![](https://i.postimg.cc/9f4vHgCY/Paleta-Juegos.png)
 
-|   | #5A996E  | #E0BF13  | #E5ADAA  | #3C9D9E  | #EFF2F5  |
+![](https://i.postimg.cc/nrtjPF4w/paleta.png)
+
+|   | #F20CD1  | #CE0DFC  |  #7A00E5 | #4B0DFC | #000000  |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-|  R |  90 | 224 |  229 | 60  |  239 |
-|  G|  153 | 191  | 173  |  157 |  242 |
-|  B|  110 | 19  | 170  |  158 | 245   |
-|  L | 60  | 88  |  90 |  62 | 96  |
+|  R |  242| 206 |  122 | 75  |  0 |
+|  G|  12 | 13  | 0  |  13 |  0 |
+|  B|  209 | 252  | 229  |  252 | 0   |
+|  L | 95  | 99  |  90 |  99 | 0  |
 
 
 
